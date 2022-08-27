@@ -12,6 +12,8 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de sol
 	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/01_iot_introduction.pdf)	
 2. **Aplicaciones del Internet de las Cosas**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/02_iot_applications.pdf)
+2. **Sistemas embebidos para el Internet de las Cosas**
+	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/03_iot_embeddedsystems.pdf)
 
 ## Laboratorios
 
