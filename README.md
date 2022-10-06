@@ -17,9 +17,7 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de sol
 4. **Arduino y el ESP32**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/04_iot_arduino.pdf)
 
-## Laboratorios
-
-## Material adicional
-
-## Literatura
-
+## Proyecto
+- Diagramas de bloques
+	* [OPCIÓN 1](https://github.com/marcoteran/iotintroduction/raw/master/files/pictures/arch_system.png)
+	* [OPCIÓN 1](https://github.com/marcoteran/iotintroduction/raw/master/files/pictures/arch_system2.png)
