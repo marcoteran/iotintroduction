@@ -18,6 +18,8 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de sol
 	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/04_iot_arduino.pdf)
 5. **Comunicaciones para el IoT**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/05_iot_COMM.pdf)	
+6. **Raspberry Pip**
+	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/06_iot_raspberrypy.pdf)	
 
 ## Proyecto
 - Diagramas de bloques
