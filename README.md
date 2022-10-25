@@ -17,9 +17,16 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de sol
 4. **Arduino y el ESP32**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/04_iot_arduino.pdf)
 5. **Comunicaciones para el IoT**
-	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/05_iot_COMM.pdf)	
-6. **Raspberry Pip**
-	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/06_iot_raspberrypy.pdf)	
+	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/05_iot_COMM.pdf)
+
+6. **Raspberry Pi**
+	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/06_iot_raspberrypy.pdf)
+	* IPython Notebooks:
+			- Notebook Curso corto de Python [descargar](https://github.com/marcoteran/internetofthings/blob/master/laboratory/00_introtopython/01_internetofthings_pythoncrashcourse.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/internetofthings/blob/master/laboratory/00_introtopython/01_internetofthings_pythoncrashcourse.ipynb)
+				* Python Homework [descargar](https://github.com/marcoteran/internetofthings/blob/master/laboratory/00_introtopython/02_internetofthings_pythoncrashcoursehomework.ipynb)
+				[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/internetofthings/blob/master/laboratory/00_introtopython/02_internetofthings_pythoncrashcoursehomework.ipynb)
+				<sub>(**Deadline:** 02/09/2021)</sub>
 
 ## Proyecto
 - Diagramas de bloques
