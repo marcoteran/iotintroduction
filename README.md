@@ -34,3 +34,6 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de sol
 - Diagramas de bloques
 	* [OPCIÓN 1](https://github.com/marcoteran/iotintroduction/raw/master/files/pictures/arch_system.png)
 	* [OPCIÓN 1](https://github.com/marcoteran/iotintroduction/raw/master/files/pictures/arch_system2.png)
+- Documento guía del proyecto
+	* [Descargar](https://github.com/marcoteran/iotintroduction/raw/master/homeworks/iot_proyecto.docx)
+
