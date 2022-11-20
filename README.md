@@ -16,6 +16,8 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de sol
 	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/03_iot_embeddedsystems.pdf)
 4. **Arduino y el ESP32**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/04_iot_arduino.pdf)
+		- Descargar instalador Driver ESP32 [Descargar](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip) [Instrucciones](https://techexplorations.com/guides/esp32/begin/cp21xxx/)
+		- Enlace para agregar board ESP32 a Arduino IDE [Enlace](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
 5. **Comunicaciones para el IoT**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/05_iot_COMM.pdf)
 6. **Raspberry Pi**
