@@ -18,7 +18,6 @@ DHT dht(DHTPIN, DHTTYPE);
 // Instancia Ubidots
 Ubidots ubidots(UBIDOTS_TOKEN, UBI_HTTP);
 
-
 /****************************************
  * Main Functions
  ****************************************/

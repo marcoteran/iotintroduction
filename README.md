@@ -24,6 +24,9 @@ Esta asignatura proporciona los fundamentos requeridos para el desarrollo de sol
 	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/06_iot_raspberrypy.pdf)
 7. **Protocolos para el IoT**
 	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/07_iot_protocols.pdf)
+8. **Azure IoT**
+	* Descargar presentación [PDF](https://github.com/marcoteran/iotintroduction/raw/master/lectures/09_iot_azureiotandpowerbi.pdf)
+	* Repositorio Azure IoT [ENLACE](https://github.com/Azure/azure-sdk-for-c-arduino)
 
 ## Ejemplos
 * IPython Notebooks:
