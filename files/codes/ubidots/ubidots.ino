@@ -8,9 +8,9 @@
  * Define Instances and Constants
  ****************************************/
 #define DHTPIN 14
-const char* WIFI_SSID = "...";      // Put here your Wi-Fi SSID
-const char* WIFI_PASS = "...";      // Put here your Wi-Fi password
-const char* UBIDOTS_TOKEN = "...";  // Put here your Ubidots TOKEN
+const char* WIFI_SSID = "marcoteran";
+const char* WIFI_PASS = "qwerty123";
+const char* UBIDOTS_TOKEN = "BBFF-RWFlY7GGLfXunm0MZSXLo2mbmsgiRP";
 
 // Instancias: configuraciones iniciales
 #define DHTTYPE DHT11
@@ -48,7 +48,7 @@ void loop()
   bufferSent = ubidots.send();  // Will send data to a device label that matches the device Id
   if (bufferSent) {
     // Do something if values were sent properly
-    Serial.println("Valores ebviados con exito");
+    Serial.println("Valores enviados con exito");
   }
 
 	// Printing the results on the serial monitor
@@ -58,9 +58,7 @@ void loop()
 
   Serial.print("Temperatura: ");
   Serial.println(t);
-  Serial.print(" ");
-	Serial.print((char)176);//shows degrees character
-	Serial.println("C");
+	Serial.println(" C");
 
 	delay(5000); // Delays 5 secods
 }
